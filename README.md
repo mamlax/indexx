@@ -61,10 +61,9 @@
  
   <Fieldset> <legend>*NAME</legend>
         <input type="text" placeholder="NAME">
-    <HR></HR>
+    
             <legend>*E-MAIL</legend>
        <input type="email" placeholder="E-mail">
-       <HR></HR>
         
         <legend>*GENDER</legend>
         <select> 
@@ -77,7 +76,7 @@
         </Fieldset> 
         <audio src="c:\Users\91945\Downloads\alarm_sound.mp3"> 
          <pre>
-                                                                             <a href="Y REG.html"><input type="submit"></a><br>
+        <a href="Y REG.html"><input type="submit"></a><br>
                                                                             </div>                                                                                                                                                      
         </pre>                                                                                                                                                        
 </body>
