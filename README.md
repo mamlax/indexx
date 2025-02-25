@@ -1,5 +1,4 @@
 # indexx
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -55,7 +54,7 @@
 </head>
 <body bgcolor="black">
     <img src="file:///C:/Users/91945/Documents/th.jpeg" height="100px" width="1170PX"/>
- <pre>                                                                                                                                                  <a href="Y REG.html">REGISTER?</a> </pre>
+                                                                                                                                                  <a href="Y REG.html">REGISTER?</a> 
     <div>
   <h1>LOGIN-NOW</h1>
  
