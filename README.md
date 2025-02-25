@@ -53,7 +53,7 @@
     </style>
 </head>
 <body bgcolor="black">
-    <img src="th.jpeg" height="100px" width="1170PX"/>
+    <img src="th.jpeg" height="100px" width="1300PX"/>
                                                                                                                                                   <a href="Y REG.html">REGISTER?</a> 
     <div>
   <h1>LOGIN-NOW</h1>
