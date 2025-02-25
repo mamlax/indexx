@@ -72,8 +72,9 @@
             <Option value="GENDER NOT DEFINED">GENDER NOT DEFINED</Option>
             <option value="PREFER NOT TO SAY">PREFER NOT TO SAY</option>
         </select>
+        <a href="Y REG.HTML"></a>
         </Fieldset> 
         
-                                                                        <input type="submit"<a href="Y REG.HTML"></a>>
+                                                                        
                                                                                                                                                                                                                              
                                                                                                                                                            
