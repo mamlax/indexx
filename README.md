@@ -77,5 +77,3 @@
                                                                         <a href="Y REG.html"><input type="submit"></a>
                                                                                                                                                                                                                              
                                                                                                                                                            
-</body>
-</html>
