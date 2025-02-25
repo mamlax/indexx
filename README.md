@@ -73,10 +73,9 @@
             <option value="PREFER NOT TO SAY">PREFER NOT TO SAY</option>
         </select>
         </Fieldset> 
-        <audio src="c:\Users\91945\Downloads\alarm_sound.mp3"> 
-         <pre>
+        
         <a href="Y REG.html"><input type="submit"></a><br>
-                                                                            </div>                                                                                                                                                      
-        </pre>                                                                                                                                                        
+                                                                                                                                                                                                                             
+                                                                                                                                                           
 </body>
 </html>
