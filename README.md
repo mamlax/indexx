@@ -74,7 +74,7 @@
         </select>
         </Fieldset> 
         
-        <a href="Y REG.html"><input type="submit"></a><br>
+                                                                        <a href="Y REG.html"><input type="submit"></a>
                                                                                                                                                                                                                              
                                                                                                                                                            
 </body>
