@@ -19,10 +19,10 @@
 </head>
 <body text="WHITE">
     <img src="https://yt3.googleusercontent.com/dxnHasXtaVn6v8kiENP4OiNfA2cRGajXX-RgBI-I3TfSVLpvelx-iuxkNAia3dAsIZd5MGfyqsE=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" height="175PX" width="1170PX"/><BR></BR>
-<span>  <img src="Designer.png"/></span><span><a href="https://youtube.com/@tb-reacts01?si=hhudmbIXPnRF3tU8"><img src="Designer (1).png"/></a></span>
+<span>  <img src="LAST.JPEG.png"/></span><span><a href="https://youtube.com/@tb-reacts01?si=hhudmbIXPnRF3tU8"><img src="Designer (1).png"/></a></span>
   <BR></BR>
   <H2><PRe> VIDEOS     SHORTS      LIVE      POSTS</PRe></H2>
   <br>
-  <a href="https://youtu.be/Twno_Q2RGVI?si=pH-U_f4yOQ40TIMz">Video<img src="VID.JPER.png"/></a>
+  <a href="https://youtu.be/Twno_Q2RGVI?si=pH-U_f4yOQ40TIMz">Video<img src="VID.JPEG.png"/></a>
  </body>
 </html>
