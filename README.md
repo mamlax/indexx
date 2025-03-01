@@ -1,80 +1,27 @@
-# indexx
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>TWINxBROTHERS</title>
     <style type="TEXT/CSS">
         body{
-            background-color: black;  
+            background-color: rgb(16, 15, 15);
         }
-        h1{
-            color: lawngreen;
-            text-align: center;
+        fieldset{
+            width: 600PX;
+            height: 250PX;
+            border-color: rgb(16, 15, 15) ;
+            border: 1px solid rgb(16, 15, 15);
         }
-        
-        input{
-            color: lawngreen;
-            background-color: black;
-            padding: 2px;
-            align-content: center;
-            border: 1px solid lawngreen;
-            
-            
-        }
-       a{
-        color:lawngreen;
-        font-size: 20px;
-        background-color:black;
-        margin: 10px;
-        align-content: center;
-        border: 1px solid lawngreen;
-       } 
-       legend{
-        color:lawngreen;
-       }
-       fieldset{
-       margin: auto;
-        width: 250px;
-        padding: 10px;
-        border: 1px solid lawngreen;
-       }
-       hr{
-        border: 1px solid lawngreen;
-       }
-       select{
-        color: lawngreen;
-        background-color: black;
-        border: 1PX solid lawngreen;
-        padding: 3PX;
-       }
-    
-    
     </style>
 </head>
-<body bgcolor="black">
-    <img src="th.jpeg" height="100px" width="1300PX"/>
-                                                                                                                                                  <a href="Y REG.html">REGISTER?</a> 
-    <div>
-  <h1>LOGIN-NOW</h1>
- 
-  <Fieldset> <legend>*NAME</legend>
-        <input type="text" placeholder="NAME">
-    
-            <legend>*E-MAIL</legend>
-       <input type="email" placeholder="E-mail">
-        
-        <legend>*GENDER</legend>
-        <select> 
-            <option value="SELECT">SELECT</option>
-            <option value="MALE">MALE</option>
-            <option value="FEMALE">FEMALE</option>
-            <Option value="GENDER NOT DEFINED">GENDER NOT DEFINED</Option>
-            <option value="PREFER NOT TO SAY">PREFER NOT TO SAY</option>
-        </select></br>
-        <a href="Y REG.HTML"></a>
-        </Fieldset> 
-        
-                                                                        
-                                                                                                                                                                                                                             
-                                                                                                                                                           
+<body text="WHITE">
+    <img src="https://yt3.googleusercontent.com/dxnHasXtaVn6v8kiENP4OiNfA2cRGajXX-RgBI-I3TfSVLpvelx-iuxkNAia3dAsIZd5MGfyqsE=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" height="175PX" width="1170PX"/><BR></BR>
+ <fieldset><span>  <img src="c:\Users\91945\Downloads\Designer.png"/></span><span><a href="https://youtube.com/@tb-reacts01?si=hhudmbIXPnRF3tU8"><img src="c:\Users\91945\Downloads\Designer (1).png"/></a></span></fieldset>
+  <BR></BR>
+  <H2><PRe> VIDEOS     SHORTS      LIVE      POSTS</PRe></H2>
+  <br>
+  <a href="https://youtu.be/Twno_Q2RGVI?si=pH-U_f4yOQ40TIMz">Video<img src="c:\Users\91945\Pictures\thy.jpeg.png"/> alt=""></a>
+ </body>
+</html>
