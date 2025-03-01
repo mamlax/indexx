@@ -13,6 +13,7 @@
             height: 250PX;
             border-color: rgb(16, 15, 15) ;
             border: 1px solid rgb(16, 15, 15);
+            background color:  rgb(16, 15, 15) ; 
         }
     </style>
 </head>
