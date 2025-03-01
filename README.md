@@ -22,6 +22,6 @@
   <BR></BR>
   <H2><PRe> VIDEOS     SHORTS      LIVE      POSTS</PRe></H2>
   <br>
-  <a href="https://youtu.be/Twno_Q2RGVI?si=pH-U_f4yOQ40TIMz">Video<img src="VID.JPER.PNG"/></a>
+  <a href="https://youtu.be/Twno_Q2RGVI?si=pH-U_f4yOQ40TIMz">Video<img src="VID.JPER.png"/></a>
  </body>
 </html>
