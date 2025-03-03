@@ -19,6 +19,8 @@
             align-content:center;
             text-align:ceneter;
             COLOR:WHITE;
+            width:1175px;
+            height:30px;
         }
     </style>
 </head>
